@@ -4,9 +4,9 @@ derived from a PDB file.
 
 Usage:
 ======
-python code_src.py -n protein_name
+python main.py -n protein_name
 OR
-python code_src.py -f pdb_file.pdb
+python main.py -f pdb_file.pdb
 
 protein_name: protein name as written in pdb data base
 pdb_file.pdb: name of the pdb file that you have
