@@ -1,0 +1,16 @@
+
+For the protein 6A5J
+	- The total accessible surface area is 1587.58 Å².
+	- The relative accessible surface area is 4.3204 Å².
+	- The accessibility to solvant percentage is 10.33 %. 
+
+
+Residues on surface : 
+
+Residues	ASA
+1	ILE	298.8166556575444
+2	LYS	178.61889729914552
+3	LYS	159.47817037501295
+4	ILE	115.7715684687561
+5	LEU	102.81920539005873
+6	SER	58.650966932004586
