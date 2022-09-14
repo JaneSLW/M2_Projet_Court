@@ -1,8 +1,0 @@
-name: projet_court
-channels:
-    - defaults
-    - conda-forge
-dependencies:
-    - biopython=1.79
-    - numpy
-    - scipy=1.9.1
